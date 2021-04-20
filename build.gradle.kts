@@ -3,7 +3,7 @@ import edu.sc.seis.launch4j.tasks.DefaultLaunch4jTask
 plugins {
     id("org.jetbrains.kotlin.jvm") version "1.4.32"
     application
-    id("edu.sc.seis.launch4j") version "2.4.9"
+    id("edu.sc.seis.launch4j") version "2.5.0"
 }
 
 repositories {
